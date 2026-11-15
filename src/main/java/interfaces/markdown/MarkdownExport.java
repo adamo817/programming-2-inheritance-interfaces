@@ -28,5 +28,7 @@ package interfaces.markdown;
  */
 public interface MarkdownExport {
 
+    public String exportMarkdown();
+
     // TODO: define the method here
 }
